@@ -19,7 +19,7 @@
 
 ### Back-end
 <p>
-<img src="https://skillicons.dev/icons?i=python,django,java" />
+<img src="https://skillicons.dev/icons?i=python,django,java,js" />
 </p>
 
 ### Front-end
@@ -34,7 +34,7 @@
 
 ### Ferramentas
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,debian" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,debian" />
 </p>
 
 ---
