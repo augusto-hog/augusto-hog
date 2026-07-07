@@ -41,9 +41,10 @@
 
 ## 📊 GitHub Stats
 
-![Augusto GitHub stats](https://github-readme-stats.vercel.app/api?username=augusto-hog&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=augusto-hog&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=augusto-hog&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=augusto-hog&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 ---
 
