@@ -1,5 +1,3 @@
-<h1 align="center">Olá, eu sou o Augusto Henrique 👋</h1>
-
 <p align="center">
   Desenvolvedor Back-end • Python • Django • Flutter
 </p>
@@ -21,7 +19,7 @@
 
 ### Back-end
 <p>
-<img src="https://skillicons.dev/icons?i=python,django" />
+<img src="https://skillicons.dev/icons?i=python,django,java" />
 </p>
 
 ### Front-end
@@ -41,15 +39,11 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
+![Augusto GitHub stats](https://github-readme-stats.vercel.app/api?username=augusto-hog&show_icons=true&theme=tokyonight)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=augusto-hog&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augusto-hog&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=augusto-hog&layout=compact&theme=tokyonight)
 
 ---
 
@@ -61,7 +55,7 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+<a href="https://www.linkedin.com/in/augusto-henrique-oliveira-gomes1501">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
