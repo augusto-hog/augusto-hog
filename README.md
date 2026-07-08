@@ -37,17 +37,6 @@
 <img src="https://skillicons.dev/icons?i=vscode,git,github,debian" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=augusto-hog&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=augusto-hog&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
 ## 📫 Contato
 
 <p align="left">
